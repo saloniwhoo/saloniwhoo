@@ -2,7 +2,7 @@
 - 👀 I’m interested in data structures, data science and full-stack development.
 - 🌱 I’m currently learning more about java, MySQL,machine learning algorithms and advanced web development techniques.
 - 💞️ I’m looking to collaborate on exciting projects that push the boundaries of technology and creativity.
-- 📫 How to reach me: Drop me an email at salonidembla57@gmail.com or connect with me on .
+- 📫 How to reach me: Drop me an email at salonidembla57@gmail.com or connect with me on https://www.linkedin.com/in/salonidembla/.
 - 😄 Pronouns: She/Her
 
 
